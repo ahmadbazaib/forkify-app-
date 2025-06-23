@@ -1,0 +1,14 @@
+# 🚫 Do NOT track installed packages
+/node_modules
+
+# 🚫 Do NOT track Parcel's cache folder
+/.parcel-cache
+
+# 🚫 Do NOT track build output
+/dist
+
+# 🚫 Optional system/OS files
+.DS_Store
+
+# 🚫 Optional environment variables (if you use them)
+.env
