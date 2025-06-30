@@ -3,7 +3,7 @@ import recipeView from './view/recipeView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-import { loadRecipe } from './model';
+import { loadRecipe } from './model.js';
 
 const recipeContainer = document.querySelector('.recipe');
 
@@ -25,7 +25,7 @@ const controlRecipes = async function () {
     // 2. Rendering Recipe
     recipeView.render(model.state.recipe);
   } catch (err) {
-    console.log(err);
+    recipeView.renderError();
   }
 };
 
