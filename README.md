@@ -5,7 +5,7 @@ A beautifully crafted, fully responsive recipe web application that lets users s
 ---
 
 ## 🌐 Live Demo  
-🔗 [Visit RecipeMate]([https://your-netlify-link.netlify.app](#https://forkify-bazaib.netlify.app/))
+🔗 [Visit forkify](#https://forkify-bazaib.netlify.app/)
 
 ---
 
