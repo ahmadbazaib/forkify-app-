@@ -24,15 +24,12 @@ A beautifully crafted, fully responsive recipe web application that lets users s
 - ⬆️ **Upload Your Own** — Custom form lets users add personal recipes.
 - 📄 **Pagination** — Navigate through multiple pages of search results.
 - 🎯 **Modular MVC Architecture** — Clean separation of logic and UI.
-- ⚡ **Optimised Performance** — Lazy loading icons and optimized bundles.
-- 📱 **Responsive Design** — Works perfectly across mobile, tablet, and desktop.
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **HTML5** – Semantic and accessible structure.
-- **SCSS (SASS)** – Modular and reusable styling.
 - **JavaScript (ES6+)** – For interactivity, logic, and modular patterns.
 - **Parcel** – Bundler for development and production builds.
 - **Forkify API** – Public recipe API (from Jonas Schmedtmann's course).
@@ -45,6 +42,5 @@ A beautifully crafted, fully responsive recipe web application that lets users s
 - Building interactive UIs using MVC pattern in JavaScript
 - Efficient DOM updating and dynamic UI rendering
 - Creating reusable components and clean modular architecture
-- SCSS organization and performance optimization techniques
 - Using real-world APIs and handling async JavaScript
 - Deploying to Netlify with modern build tools
