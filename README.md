@@ -42,7 +42,7 @@ A beautifully crafted, fully responsive recipe web application that lets users s
 
 ## 📚 What I Learned
 
-- Building interactive UIs using MVC pattern in vanilla JavaScript
+- Building interactive UIs using MVC pattern in JavaScript
 - Efficient DOM updating and dynamic UI rendering
 - Creating reusable components and clean modular architecture
 - SCSS organization and performance optimization techniques
