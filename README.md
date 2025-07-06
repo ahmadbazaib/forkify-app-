@@ -11,7 +11,7 @@ A beautifully crafted, fully responsive recipe web application that lets users s
 
 ## 📸 Overview
 
-**RecipeMate** is a high-quality front-end project built to showcase advanced development skills using modular JavaScript, interactive UI components, and a clean architecture.
+**forkify** is a high-quality front-end project built to showcase advanced development skills using modular JavaScript, interactive UI components, and a clean architecture.
 
 ---
 
